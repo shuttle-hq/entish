@@ -1,0 +1,6 @@
+[workspace]
+members = [
+  "entish",
+  "entish-derive",
+  "entish-test"
+]
